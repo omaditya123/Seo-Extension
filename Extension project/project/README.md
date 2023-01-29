@@ -11,7 +11,8 @@ These instructions will help you to install and use the SEO extension on your lo
 # Prerequisites
 Basic knowledge of JavaScript and React JS.
 A web browser that supports extensions, such as `Google Chrome or Mozilla Firefox`.
-Installing
+
+#### Installing
 Clone the repository to your local machine using the following command:
 bash
 Copy code
@@ -39,8 +40,8 @@ To run the test suite for the SEO extension, run the following command:
 
 # Built With
 
-JavaScript - The primary programming language.
-React JS - The JavaScript library for building user interfaces.
+##### JavaScript - The primary programming language.
+##### React JS - The JavaScript library for building user interfaces.
 
 # Author-
 
