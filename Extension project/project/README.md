@@ -41,6 +41,7 @@ To run the test suite for the SEO extension, run the following command:
 # Built With
 
 ##### JavaScript - The primary programming language.
+##### TypeScript - TypeScript extends JavaScript, providing a better developer experience.
 ##### React JS - The JavaScript library for building user interfaces.
 
 # Author-
